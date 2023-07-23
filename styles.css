@@ -1,0 +1,59 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 100;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #about {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  #about img {
+    width: 200px;
+    border-radius: 50%;
+  }
+  
+  #skills {
+    padding: 20px;
+    background-color: whitesmoke;
+  }
+  
+  #projects {
+    padding: 20px;
+    background-color: whitesmoke;   
+  }
+  .project {
+    margin-bottom: 20px;   
+    background-color: whitesmoke;
+  }
+  
+  .project  {
+    margin-bottom: 20px;
+    border-color:whitesmoke;
+  }
+  #resume {
+    text-align: center;
+    padding: 20px;
+    background-color:snow;
+  }
+  
+  #contact {
+    text-align: center;
+    padding: 10px;
+    background-color:snow;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color:color-mix(in hsl longer hue, color percentage, color percentage);
+  }
